@@ -1,7 +1,7 @@
 {
   "name": "fcc-image-search-abstraction-layer",
   "version": "1.0.0",
-  "description": It is the 4th FreeCodeCamp API project.",
+  "description": "It is the 4th FreeCodeCamp API project.",
   "main": "server.js",
   "repository": "",
   "author": "burcinguzel",
